@@ -49,7 +49,7 @@ Annu Tiwari - Team Lead | Research & Feature Engineering
 
 Sanjeev Kumar –  ML Developer | Integration Engineer
 
-Divyanshi – Power & Testing | Pitching 
+Divyanshi Sharma – Power & Testing | Pitching 
 
 Akshansh – Hardware & Signal Filtering
 
