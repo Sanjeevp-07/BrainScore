@@ -37,7 +37,7 @@ To help people understand and track their brain health, in real-time, using non-
  
  React + Tailwind CSS (Frontend)
  
- ESP32 + ADS1115 + AD620 for EEG signal acquisition
+ ESP32 + ADS1115 + AD620 for EEG signal acquisition  (Hardware is in Progress)
  
  Vercel / Render for live web deployment
 
