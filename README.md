@@ -43,7 +43,7 @@ To help people understand and track their brain health, in real-time, using non-
 
 
 
-**Team Inora**
+**Team - Hack-n-Roll**
 
 Annu Tiwari - Team Lead | Research & Feature Engineering
 
