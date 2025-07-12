@@ -45,13 +45,13 @@ To help people understand and track their brain health, in real-time, using non-
 
 **Team Inora**
 
-Sanjeev Kumar – Lead Developer (Signal Processing + ML + Hardware)
+Annu Tiwari - Team Lead | Research & Feature Engineering
 
-Akshansh Gupta – Frontend Engineer (UI/UX + Dashboard)
+Sanjeev Kumar –  ML Developer | Integration Engineer
 
-Shristi Sharma – Hardware & Signal Filtering
+Divyanshi – Power & Testing | Pitching 
 
-Prerna Yadav – Research, Content & Documentation
+Akshansh – Hardware & Signal Filtering
 
 
 **🔗 Live Demo**
