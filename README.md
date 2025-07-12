@@ -54,6 +54,25 @@ Divyanshi Sharma – Power & Testing | Pitching
 Akshansh – Hardware & Signal Filtering
 
 
+**⚠️ Note for Opening the Colab Notebook**
+
+Having trouble loading the Colab notebook directly from GitHub?
+
+Sometimes, Google Colab may not open notebooks hosted on GitHub due to network or rendering issues.
+
+**✅ Quick Fix:**
+
+Click the green “Code” button on this repo and download the file then open.
+
+Extract it on your system.
+
+Open the .ipynb file directly at https://colab.research.google.com/drive/18FTTXjBiXtyGAZgW6rGwk5I-yZnTW6Y_?usp=sharing
+
+Go to File → Upload Notebook, and select the file from your system.
+
+
+
+
 **🔗 Live Demo**
 
 🌐 https://brainscore.vercel.app
