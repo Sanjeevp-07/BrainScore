@@ -18,7 +18,7 @@ To help people understand and track their brain health, in real-time, using non-
 |  **EEG-Based Monitoring** | Captures 20-channel brainwave data from the scalp                         |
 |  **Signal Preprocessing** | Cleans data using 0.5–50Hz bandpass filtering                             |
 |  **Feature Extraction**   | Extracts 20+ nonlinear and statistical brainwave features                 |
-|  **AI-Powered Analysis**  | Uses machine learning to calculate BrainScore with 94.44% accuracy        |
+|  **AI-Powered Analysis**  | Uses machine learning to calculate BrainScore with 90.00% accuracy        |
 |  **BrainScore™ Output**   | Outputs a clarity score (0–100%) to reflect mental state                  |
 |  **Explainable AI**       | SHAP-based interpretability to show how each signal influenced the result |
 |  **Web Dashboard**        | Upload EEG → View insights instantly with graphs and clarity trends       |
@@ -69,15 +69,3 @@ Extract it on your system.
 Open the .ipynb file directly at https://colab.research.google.com/drive/18FTTXjBiXtyGAZgW6rGwk5I-yZnTW6Y_?usp=sharing
 
 Go to File → Upload Notebook, and select the file from your system.
-
-
-
-
-**🔗 Live Demo**
-
-🌐 https://brainscore.vercel.app
-
-**🎥 Demo Video**
-
-📽️ https://youtu.be/your-video-id
-
